@@ -1,0 +1,4 @@
+loadNews
+========
+
+for kpman
